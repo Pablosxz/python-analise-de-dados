@@ -1,2 +1,2 @@
-# python-analise-de-dados
-Repositório de testes e projetos enquanto estudo Análise de Dados com Python :)
+# Análise de dados com Python
+Este é apenas um repositório de testes e projetos enquanto estudo Análise de Dados com Python :)
